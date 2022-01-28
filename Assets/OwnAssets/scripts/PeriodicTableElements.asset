@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: PeriodicTableElements
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5539885634307590938
+  m_GuidHigh: 15141615489093498553
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5555395466526385949
+      m_GuidHigh: 14828264732985889203
+    m_SerializedTextureGuid:
+      m_GuidLow: 9936276574850109159
+      m_GuidHigh: 13173313429138409288
+    m_Size: {x: 0.1, y: 0.16397516}
+    m_SpecifySize: 1
+    m_Name: ElementFe
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5650999484094160569
+      m_GuidHigh: 314973404938057407
+    m_SerializedTextureGuid:
+      m_GuidLow: 11877182164444207746
+      m_GuidHigh: 6203295089057736250
+    m_Size: {x: 0.1, y: 0.16273293}
+    m_SpecifySize: 1
+    m_Name: ElementO
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5618419237708929142
+      m_GuidHigh: 17811343410376649134
+    m_SerializedTextureGuid:
+      m_GuidLow: 9931618350037362173
+      m_GuidHigh: 1149876323676054153
+    m_Size: {x: 0.1, y: 0.16049384}
+    m_SpecifySize: 1
+    m_Name: ElementH
+    m_Texture: {fileID: 0}
