@@ -28,7 +28,7 @@ public class OwnImageRecognition : MonoBehaviour
 
     [SerializeField] private bool removeObjectsIfImageNotFound;
 
-    [SerializeField] float spawnOffset;
+    [SerializeField] float spawnOffsetYpos;
     #endregion 
 
 
@@ -77,7 +77,7 @@ public class OwnImageRecognition : MonoBehaviour
     {
         //if (scanIndicatorImage.activeSelf) scanIndicatorImage.SetActive(false);
         string name = trackedImage.referenceImage.name;
-        Vector3 position = trackedImage.transform.position + new Vector3(0,spawnOffset,0);
+        Vector3 position = trackedImage.transform.position + new Vector3(0,spawnOffsetYpos,0);
         Quaternion rotation = trackedImage.transform.rotation;
 
         GameObject prefab = spawnedPrefabs[name];
@@ -92,7 +92,7 @@ public class OwnImageRecognition : MonoBehaviour
         {
             if (scanIndicatorImage.activeSelf) scanIndicatorImage.SetActive(false);
             string name = trackedImage.referenceImage.name;
-            Vector3 position = trackedImage.transform.position + new Vector3(0, spawnOffset, 0);
+            Vector3 position = trackedImage.transform.position + new Vector3(0, spawnOffsetYpos, 0);
             Quaternion rotation = trackedImage.transform.rotation;
 
             GameObject prefab = spawnedPrefabs[name];
