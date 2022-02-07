@@ -23,7 +23,7 @@ public class ElementInteraction : MonoBehaviour
     {
         if (spawnedObj != null && connectedObj != null)
         {
-            spawnedObj.transform.position = (transform.position + connectedObj.position) / 2;
+            spawnedObj.transform.position = ((transform.position + connectedObj.position) / 2) + new Vector3(0, 0.05f, 0);
             //spawnedObj.transform.position = new Vector3( (transform.position.x + connectedObj.position.x)/ 2,  0.07f, transform.position.z + connectedObj.position.z) / 2;
 
         }

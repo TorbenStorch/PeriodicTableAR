@@ -14,4 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canInteractWith: 03000000
   type: 2
-  canSpawn: {fileID: 919132149155446097, guid: de4da3906a001624fabcc7838ddf2eb4, type: 3}
+  canSpawn: {fileID: 3623066728796246423, guid: 32301eb27fc88814c92dc1de7b7d5854,
+    type: 3}
