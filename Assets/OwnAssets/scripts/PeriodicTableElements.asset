@@ -45,3 +45,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: ElementH
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4994149661018304344
+      m_GuidHigh: 3767445130488955803
+    m_SerializedTextureGuid:
+      m_GuidLow: 18281476278723298320
+      m_GuidHigh: 12724507688157730491
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: ElementFire
+    m_Texture: {fileID: 0}
