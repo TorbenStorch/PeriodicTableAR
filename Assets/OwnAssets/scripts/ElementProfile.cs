@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public enum ElementType {O, H, Fe, Water}
+public enum ElementType {O, H, Fe, Water, Fire}
 [CreateAssetMenu]
 public class ElementProfile : ScriptableObject
 {

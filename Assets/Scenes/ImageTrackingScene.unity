@@ -360,6 +360,7 @@ MonoBehaviour:
   - {fileID: 4189739954985327024, guid: 8f0b937ececc5da438cd187320c03d06, type: 3}
   - {fileID: 4189739954985327024, guid: 64cd957c5d2f9b94c804edef2a563103, type: 3}
   - {fileID: 4189739954985327024, guid: 4e942c1d21c9afa4fbe1b301a08fd0e9, type: 3}
+  - {fileID: 4189739954985327024, guid: f2b332194e8e8ff4885f462ea42aae11, type: 3}
   scanIndicatorImage: {fileID: 1453507314436150595}
   showIndicatorIfImageNotVisible: 0
   removeObjectsIfImageNotFound: 1
@@ -378,7 +379,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_SerializedLibrary: {fileID: 11400000, guid: ccc8754c5b296574ea8ec1d034f37b34,
     type: 2}
-  m_MaxNumberOfMovingImages: 3
+  m_MaxNumberOfMovingImages: 4
   m_TrackedImagePrefab: {fileID: 0}
 --- !u!1001 &459839115
 PrefabInstance:
