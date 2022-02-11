@@ -6,7 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/ImageTrackingScene.unity
+    path: Assets/Scenes/Home.unity
+    guid: ae6045c956af1794da05e22aa228b833
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: aff07fdb5e896f445b1c72c6473319d2
+  - enabled: 1
+    path: Assets/Scenes/OpenSettings.unity
+    guid: 9f483d3d6a896344aa175723b68bff9e
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
     guid: 6f1bb79f65794a84ca3190ab66418a2f
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
