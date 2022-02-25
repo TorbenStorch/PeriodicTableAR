@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a1d0e805b1386b044a8387dd3af34ff3, type: 3}
   m_Name: Water
   m_EditorClassIdentifier: 
-  canInteractWith: 02000000
+  canInteractWith: 04000000
   type: 3
-  canSpawn: {fileID: 0}
+  canSpawn: {fileID: 4189739954985327024, guid: 365b4585b6612e24dbc2c491c5c3f5a6,
+    type: 3}

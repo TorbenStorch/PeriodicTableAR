@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a1d0e805b1386b044a8387dd3af34ff3, type: 3}
   m_Name: Fire
   m_EditorClassIdentifier: 
-  canInteractWith: 
+  canInteractWith: 02000000
   type: 4
-  canSpawn: {fileID: 0}
+  canSpawn: {fileID: 3623066728796246423, guid: d5e42d09b0169fa4592f0d02533bf122,
+    type: 3}
